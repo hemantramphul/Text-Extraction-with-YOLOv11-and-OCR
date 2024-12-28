@@ -1,6 +1,10 @@
-### Building a Pipeline for Object Detection and Text Recognition Using YOLO and OCR
+### Integrating YOLO11 and Tesseract OCR for Object Detection and Text Recognition
 
-This article provides a comprehensive guide on integrating object detection with YOLO and Optical Character Recognition (OCR) using Tesseract. The goal is to identify specific regions in images (e.g., invoices) using YOLO and extract text from those regions using OCR. We'll go step by step, from setting up the environment to implementing the solution.
+Integrating object detection with YOLO and Optical Character Recognition (OCR) using Tesseract. The goal is to identify specific regions in images (e.g., invoices) using YOLO and extract text from those regions using OCR. We'll go step by step, from setting up the environment to implementing the solution.
+
+Read the full article here
+
+![Building a Pipeline for Object Detection and Text Recognition Using YOLO and OCR](Integrating YOLO11 and Tesseract OCR for Object Detection and Text Recognition.png)
 
 ---
 
