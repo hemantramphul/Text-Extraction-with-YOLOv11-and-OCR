@@ -2,7 +2,7 @@
 
 Integrating object detection with YOLO and Optical Character Recognition (OCR) using Tesseract. The goal is to identify specific regions in images (e.g., invoices) using YOLO and extract text from those regions using OCR. We'll go step by step, from setting up the environment to implementing the solution.
 
-Read the full article here
+Read the full article [here](https://medium.com/@hemant.ramphul/integrating-yolo11-and-tesseract-ocr-for-object-detection-and-text-recognition-eaee68c2dcc9#0b1b).
 
 ![screenshot](yolo_ocr.png)
 ---
