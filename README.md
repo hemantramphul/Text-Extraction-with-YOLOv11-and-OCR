@@ -4,8 +4,7 @@ Integrating object detection with YOLO and Optical Character Recognition (OCR) u
 
 Read the full article here
 
-![Building a Pipeline for Object Detection and Text Recognition Using YOLO and OCR](Integrating YOLO11 and Tesseract OCR for Object Detection and Text Recognition.png)
-
+![screenshot](Integrating YOLO11 and Tesseract OCR for Object Detection and Text Recognition.png)
 ---
 
 ### Step 1: **Setting Up the Environment**
